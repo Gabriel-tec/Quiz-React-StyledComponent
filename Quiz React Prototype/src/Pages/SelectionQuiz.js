@@ -18,7 +18,10 @@ function SelectionQuiz() {
                     <button>Quiz 01</button>
                 </Link>
                 
-                <button>Quiz 02</button>
+                <Link to="/Quiz02">
+                    <button>Quiz 02</button>
+                </Link>
+                
             </SelectionQuizStyle>
             
         </div>
